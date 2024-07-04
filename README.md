@@ -1,6 +1,6 @@
-# Challenge: Conversor de Modelo.Monedas
+# Challenge: Conversor de Monedas
 
-# Conversor de Modelo.Monedas
+# Conversor de Monedas
 
 Este proyecto es un conversor de monedas que facilita la conversión entre varios tipos de monedas, como el dólar estadounidense, el peso argentino, el real brasileño y el peso colombiano.
 
