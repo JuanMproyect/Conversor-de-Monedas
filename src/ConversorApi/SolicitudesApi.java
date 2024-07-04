@@ -1,3 +1,6 @@
+package ConversorApi;
+
+import Modelo.Monedas;
 import com.google.gson.Gson;
 
 import java.io.IOException;
@@ -6,12 +9,12 @@ import java.net.http.HttpClient;
 import java.net.http.HttpRequest;
 import java.net.http.HttpResponse;
 
-public class SolicitudesClientes {
+public class SolicitudesApi {
     public Monedas conversor(String baseCode, String targetCode, Double monto) {
         String apiKey = "6ea051f7244157c7fd9a267a";
         URI direccion = URI.create("https://v6.exchangerate-api.com/v6/" + apiKey + "/pair/" + baseCode + "/" + targetCode + "/" + monto);
-        HttpClient client = HttpClient.newHttpClient();
 
+        HttpClient client = HttpClient.newHttpClient();
         HttpRequest request = HttpRequest.newBuilder()
                 .uri(direccion)
                 .build();
