@@ -2,7 +2,7 @@
 
 # Conversor de Monedas
 
-Este proyecto es un conversor de monedas que facilita la conversión entre varios tipos de monedas, como el dólar estadounidense, el peso argentino, el real brasileño y el peso colombiano.
+Este proyecto es un conversor de monedas que facilita la conversión entre varios tipos de monedas, como el dólar estadounidense, el peso argentino, el real brasileño, el peso colombiano y el lempira hondureño.
 
 ## Funcionalidades
 
