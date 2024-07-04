@@ -1,3 +1,9 @@
+package Main;
+
+import ConversorApi.ConversorHistorial;
+import ConversorApi.SolicitudesApi;
+import Modelo.Monedas;
+
 import java.util.Scanner;
 
 public class Principal {
