@@ -31,4 +31,4 @@ Juan Morel
 
 ## Estado del proyecto
 
-* Finalizado.
+* Por terminar.
