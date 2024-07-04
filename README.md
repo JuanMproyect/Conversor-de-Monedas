@@ -12,6 +12,9 @@ Este proyecto es un conversor de monedas que facilita la conversión entre vario
 * Conversión entre Real Brasileño a Dólar
 * Conversión entre Dólar a Peso Colombiano
 * Conversión entre Peso Colombiano a Dólar
+* Conversión entre Dólar a Lempira
+* Conversión entre Lempira a Dólar
+* Historial de conversiones
 * Opción para salir del programa
 
 ## Uso
@@ -25,10 +28,6 @@ Este proyecto es un conversor de monedas que facilita la conversión entre vario
 * Java 8 o superior
 * Un entorno de desarrollo integrado (IDE) como Eclipse, NetBeans o IntelliJ IDEA.
 
-## Autor
-
-Juan Morel
-
 ## Estado del proyecto
 
-* Por terminar.
+* Finalizado.
