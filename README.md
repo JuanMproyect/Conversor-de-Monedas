@@ -26,6 +26,7 @@ Este proyecto es un conversor de monedas que facilita la conversión entre vario
 ## Requisitos
 
 * Java 8 o superior
+* Libreria Gson
 * Un entorno de desarrollo integrado (IDE) como Eclipse, NetBeans o IntelliJ IDEA.
 
 ## Estado del proyecto
